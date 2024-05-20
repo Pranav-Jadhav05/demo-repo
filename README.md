@@ -1,3 +1,1 @@
-# demo-repo
-
-Author: Pranav jadhav
+Demo-Repo
